@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+ <meta name="google-site-verification" content="zToN68XkpERVCK6Zf6lLMYOnUb8l0TrUTJgJnCXcsvw" />
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HORORA – Team Esports Fortnite</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%20120%20140%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22hg-ring%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2322d3ee%22/%3E%3Cstop%20offset%3D%22.55%22%20stop-color%3D%22%238b5cf6%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23ff4d9d%22/%3E%3C/linearGradient%3E%0A%3ClinearGradient%20id%3D%22hg-h%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23ffffff%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%239fe9ff%22/%3E%3C/linearGradient%3E%0A%3ClinearGradient%20id%3D%22hg-bar%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%220%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2322d3ee%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23a78bfa%22/%3E%3C/linearGradient%3E%0A%3ClinearGradient%20id%3D%22hg-bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%231e1a52%22/%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230a0722%22/%3E%3C/linearGradient%3E%0A%3CclipPath%20id%3D%22hg-clip%22%3E%3Cpath%20d%3D%22M60%204%20L112%2024%20V70%20C112%20104%2088%20126%2060%20136%20C32%20126%208%20104%208%2070%20V24%20Z%22/%3E%3C/clipPath%3E%3C/defs%3E%3Cpath%20d%3D%22M60%204%20L112%2024%20V70%20C112%20104%2088%20126%2060%20136%20C32%20126%208%20104%208%2070%20V24%20Z%22%20fill%3D%22url%28%23hg-bg%29%22%20stroke%3D%22url%28%23hg-ring%29%22%20stroke-width%3D%225%22%20stroke-linejoin%3D%22round%22/%3E%0A%3Cg%20clip-path%3D%22url%28%23hg-clip%29%22%3E%0A%3Cpath%20d%3D%22M-5%2040%20C30%2010%2060%2070%20125%2028%20L125%2052%20C60%2096%2030%2036%20-5%2066Z%22%20fill%3D%22url%28%23hg-bar%29%22%20opacity%3D%22.35%22/%3E%0A%3Cpath%20d%3D%22M-5%2096%20C30%2070%2070%20120%20125%2084%20L125%20100%20C70%20136%2030%2088%20-5%20112Z%22%20fill%3D%22%238b5cf6%22%20opacity%3D%22.28%22/%3E%0A%3C/g%3E%0A%3Cpath%20d%3D%22M60%2014%20L102%2030%20V70%20C102%2098%2082%20117%2060%20126%20C38%20117%2018%2098%2018%2070%20V30Z%22%20fill%3D%22none%22%20stroke%3D%22%23fff%22%20stroke-opacity%3D%22.16%22%20stroke-width%3D%221.5%22/%3E%0A%3Cg%20transform%3D%22translate%2812%200%29%20skewX%28-10%29%22%3E%0A%3Cpolygon%20points%3D%2234%2C38%2050%2C38%2050%2C104%2034%2C104%22%20fill%3D%22url%28%23hg-h%29%22/%3E%0A%3Cpolygon%20points%3D%2270%2C38%2086%2C38%2086%2C104%2070%2C104%22%20fill%3D%22url%28%23hg-h%29%22/%3E%0A%3Cpolygon%20points%3D%2250%2C64%2070%2C52%2070%2C68%2050%2C80%22%20fill%3D%22url%28%23hg-bar%29%22/%3E%0A%3C/g%3E%0A%3Cpath%20d%3D%22M92%2021%20L94.5%2027.5%20L101%2030%20L94.5%2032.5%20L92%2039%20L89.5%2032.5%20L83%2030%20L89.5%2027.5Z%22%20fill%3D%22%23facc15%22/%3E%0A%3Cpolygon%20points%3D%2246%2C112%2060%2C119%2074%2C112%2074%2C115%2060%2C123%2046%2C115%22%20fill%3D%22url%28%23hg-bar%29%22/%3E%3C/svg%3E">
+<meta name="description" content="Horora, team esports Fortnite. Découvre l'équipe, le calendrier et candidate pour rejoindre la team.">
+<style>
+:root{--bg:#0a0722;--bg2:#120d36;--card:#1a1450;--line:#33298a;--text:#f1efff;--muted:#a8a3d9;
+ --v:#8b5cf6;--c:#22d3ee;--y:#facc15;--err:#ff8095;--ok:#4ade80;
+ --display:"Arial Black","Segoe UI Black",Impact,system-ui,sans-serif}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;scroll-padding-top:70px}
+body{font-family:"Segoe UI",system-ui,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.6;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1080px;margin:auto;padding:0 20px}
+h1,h2,h3{font-family:var(--display);text-transform:uppercase;line-height:1.05;letter-spacing:-.01em}
+h2{font-size:clamp(1.7rem,4.5vw,2.6rem);margin-bottom:10px}
+h2 span,.grad{background:linear-gradient(90deg,var(--c),var(--v));-webkit-background-clip:text;background-clip:text;color:transparent}
+.sub{color:var(--muted);max-width:60ch;margin-bottom:34px}
+section{padding:84px 0}
+.tag{display:inline-block;font-size:.78rem;font-weight:700;letter-spacing:.16em;color:var(--c);margin-bottom:10px}
+
+/* NAV */
+nav.top{position:fixed;inset:0 0 auto 0;z-index:50;background:rgba(10,7,34,.82);backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+nav.top .wrap{display:flex;align-items:center;justify-content:space-between;height:62px}
+.logo{font-family:var(--display);font-size:1.4rem;letter-spacing:.06em}
+.logo i{color:var(--v);font-style:normal}
+nav.top ul{display:flex;gap:26px;list-style:none;font-size:.9rem;font-weight:600}
+nav.top ul a{color:var(--muted);transition:color .2s}
+nav.top ul a:hover{color:var(--text)}
+.btn{display:inline-block;background:linear-gradient(90deg,var(--v),#6d3df0);color:#fff;font-weight:800;
+ padding:13px 28px;border-radius:6px;border:0;cursor:pointer;font:inherit;font-weight:800;
+ box-shadow:0 8px 28px -8px var(--v);transition:transform .15s,box-shadow .15s}
+.btn:hover{transform:translateY(-2px);box-shadow:0 12px 32px -6px var(--v)}
+.btn.ghost{background:transparent;border:2px solid var(--line);box-shadow:none}
+.btn.ghost:hover{border-color:var(--c)}
+.btn:disabled{opacity:.6;cursor:wait}
+@media(max-width:760px){nav.top ul{display:none}}
+
+/* HERO */
+.hero{min-height:100vh;display:flex;align-items:center;padding-top:90px;position:relative;
+ background:radial-gradient(60% 50% at 80% 20%,rgba(139,92,246,.35),transparent),
+ radial-gradient(50% 50% at 10% 90%,rgba(34,211,238,.18),transparent),var(--bg)}
+.hero::before{content:"";position:absolute;inset:0;opacity:.07;
+ background-image:linear-gradient(var(--text) 1px,transparent 1px),linear-gradient(90deg,var(--text) 1px,transparent 1px);
+ background-size:48px 48px;mask-image:linear-gradient(#000,transparent 85%)}
+.hero .wrap{position:relative}
+.hero h1{font-size:clamp(3.2rem,13vw,8rem);margin:6px 0 16px}
+.hero p{font-size:1.15rem;color:var(--muted);max-width:52ch;margin-bottom:30px}
+.hero .cta{display:flex;gap:14px;flex-wrap:wrap}
+.live{display:inline-flex;align-items:center;gap:8px;font-size:.8rem;font-weight:700;letter-spacing:.12em;color:var(--y)}
+.live::before{content:"";width:9px;height:9px;border-radius:50%;background:var(--y);animation:pulse 1.6s infinite}
+@keyframes pulse{50%{opacity:.3;transform:scale(1.5)}}
+
+/* STATS */
+.stats{background:var(--bg2);border-block:1px solid var(--line);padding:46px 0}
+.stats .wrap{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;text-align:center}
+.stat b{display:block;font-family:var(--display);font-size:clamp(2rem,6vw,3.2rem);color:var(--y)}
+.stat span{color:var(--muted);font-size:.85rem;letter-spacing:.1em;text-transform:uppercase}
+@media(max-width:620px){.stats .wrap{grid-template-columns:repeat(2,1fr)}}
+
+/* ROSTER */
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:20px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px;
+ transition:transform .2s,border-color .2s}
+.card:hover{transform:translateY(-6px);border-color:var(--v)}
+.avatar{width:86px;height:86px;border-radius:50%;display:grid;place-items:center;margin-bottom:16px;
+ font-family:var(--display);font-size:2rem;background:linear-gradient(135deg,var(--v),var(--c));color:#0a0722}
+.card h3{font-size:1.2rem}
+.role{color:var(--c);font-size:.8rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;margin:4px 0 10px}
+.card p{color:var(--muted);font-size:.92rem}
+
+/* CALENDRIER */
+.match{display:grid;grid-template-columns:90px 1fr auto;gap:18px;align-items:center;
+ background:var(--card);border:1px solid var(--line);border-left:4px solid var(--v);
+ border-radius:10px;padding:16px 20px;margin-bottom:12px}
+.match time{font-family:var(--display);font-size:1.1rem;color:var(--y)}
+.match small{color:var(--muted);display:block}
+.pill{font-size:.75rem;font-weight:800;padding:5px 12px;border-radius:99px;background:rgba(34,211,238,.14);color:var(--c)}
+@media(max-width:560px){.match{grid-template-columns:1fr}}
+
+/* AVANTAGES + CONDITIONS */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+@media(max-width:800px){.two{grid-template-columns:1fr}}
+.box{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:28px}
+.box h3{font-size:1.2rem;margin-bottom:16px}
+.box ul{list-style:none;display:grid;gap:12px}
+.box li{padding-left:28px;position:relative}
+.box li::before{content:"✔";position:absolute;left:0;color:var(--c);font-weight:900}
+.box.perks li::before{content:"★";color:var(--y)}
+
+/* FORMULAIRE */
+.formbox{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:clamp(20px,4vw,38px)}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media(max-width:620px){.row{grid-template-columns:1fr}}
+.field{margin-bottom:16px}
+label{display:block;font-weight:600;font-size:.9rem;margin-bottom:6px}
+input,select,textarea{width:100%;padding:12px;border-radius:7px;border:1px solid var(--line);background:#0c0829;color:var(--text);font:inherit}
+textarea{min-height:120px;resize:vertical}
+input:focus,select:focus,textarea:focus,a:focus-visible,.btn:focus-visible{outline:2px solid var(--c);outline-offset:2px}
+.invalid{border-color:var(--err)}
+.error{color:var(--err);font-size:.83rem;min-height:1.1em;margin-top:4px}
+.check{display:flex;gap:10px;align-items:flex-start}
+.check input{width:auto;margin-top:5px}
+.check label{font-weight:400;margin:0}
+#success{display:none;text-align:center;padding:30px 10px}
+#success h3{color:var(--ok);font-size:1.6rem;margin-bottom:10px}
+
+/* RÉSEAUX + FOOTER */
+.socials{display:flex;gap:14px;flex-wrap:wrap;justify-content:center}
+.socials a{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;background:var(--card);
+ border:1px solid var(--line);transition:transform .15s,background .15s,border-color .15s}
+.socials svg{width:26px;height:26px}
+.socials a:hover{transform:translateY(-4px);border-color:transparent}
+.s-tt:hover{background:#000}.s-ig:hover{background:linear-gradient(45deg,#f9a03c,#e1306c,#833ab4)}
+.s-yt:hover{background:#f00}.s-dc:hover{background:#5865f2}
+footer{border-top:1px solid var(--line);padding:30px 0;text-align:center;color:var(--muted);font-size:.85rem}
+footer p+p{margin-top:6px;font-size:.78rem;opacity:.8}
+
+/* TRADUCTION */
+.lang{width:auto;padding:8px 10px;font-size:.85rem;margin:0 12px 0 auto;border-radius:6px}
+
+[dir=rtl] .box li{padding-left:0;padding-right:28px}
+[dir=rtl] .box li::before{left:auto;right:0}
+[dir=rtl] .match{border-left:1px solid var(--line);border-right:4px solid var(--v)}
+[dir=rtl] .lang{margin:0 auto 0 12px}
+[dir=rtl] .sub{margin-left:auto}
+
+.btn.dc{background:#5865f2;box-shadow:0 8px 28px -8px #5865f2}
+.btn.dc:hover{box-shadow:0 12px 32px -6px #5865f2}
+.btn svg{width:20px;height:20px;vertical-align:-4px;margin-inline-end:9px}
+.dcbox{display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;
+ background:linear-gradient(135deg,#2b2f8f,#5865f2);border-radius:14px;padding:24px 28px;margin-bottom:24px}
+.dcbox h3{font-size:1.2rem;margin-bottom:4px}
+.dcbox p{opacity:.92;max-width:46ch}
+.dcbox .btn{background:#fff;color:#2b2f8f;box-shadow:none}
+#success .btn{margin-top:18px}
+
+.logo{display:flex;align-items:center;gap:10px}
+.logo .mark{width:30px;height:35px;flex:none}
+.hero-mark{position:absolute;right:6%;top:52%;width:min(34vw,360px);height:auto;transform:translateY(-50%);
+ filter:drop-shadow(0 0 50px rgba(139,92,246,.65));animation:float 6s ease-in-out infinite}
+@keyframes float{50%{transform:translateY(calc(-50% - 14px))}}
+@media(max-width:900px){.hero-mark{display:none}}
+
+/* ANIMATIONS */
+.rv{opacity:0;transform:translateY(26px);transition:opacity .6s,transform .6s}
+.rv.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}}
+</style>
+</head>
+ <meta name="google-site-verification" content="zToN68XkpERVCK6Zf6lLMYOnUb8l0TrUTJgJnCXcsvw" />
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><defs><linearGradient id="hg-ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset=".55" stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff4d9d"/></linearGradient>
+<linearGradient id="hg-h" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9fe9ff"/></linearGradient>
+<linearGradient id="hg-bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="hg-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e1a52"/><stop offset="1" stop-color="#0a0722"/></linearGradient>
+<clipPath id="hg-clip"><path d="M60 4 L112 24 V70 C112 104 88 126 60 136 C32 126 8 104 8 70 V24 Z"/></clipPath><symbol id="emblem" viewBox="0 0 120 140"><path d="M60 4 L112 24 V70 C112 104 88 126 60 136 C32 126 8 104 8 70 V24 Z" fill="url(#hg-bg)" stroke="url(#hg-ring)" stroke-width="5" stroke-linejoin="round"/>
+<g clip-path="url(#hg-clip)">
+<path d="M-5 40 C30 10 60 70 125 28 L125 52 C60 96 30 36 -5 66Z" fill="url(#hg-bar)" opacity=".35"/>
+<path d="M-5 96 C30 70 70 120 125 84 L125 100 C70 136 30 88 -5 112Z" fill="#8b5cf6" opacity=".28"/>
+</g>
+<path d="M60 14 L102 30 V70 C102 98 82 117 60 126 C38 117 18 98 18 70 V30Z" fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="1.5"/>
+<g transform="translate(12 0) skewX(-10)">
+<polygon points="34,38 50,38 50,104 34,104" fill="url(#hg-h)"/>
+<polygon points="70,38 86,38 86,104 70,104" fill="url(#hg-h)"/>
+<polygon points="50,64 70,52 70,68 50,80" fill="url(#hg-bar)"/>
+</g>
+<path d="M92 21 L94.5 27.5 L101 30 L94.5 32.5 L92 39 L89.5 32.5 L83 30 L89.5 27.5Z" fill="#facc15"/>
+<polygon points="46,112 60,119 74,112 74,115 60,123 46,115" fill="url(#hg-bar)"/></symbol></defs></svg>
+
+<nav class="top">
+  <div class="wrap">
+    <a href="#top" class="logo" translate="no" aria-label="Horora"><svg class="mark" viewBox="0 0 120 140" aria-hidden="true"><use href="#emblem"/></svg><span>HOR<i>O</i>RA</span></a>
+    <ul>
+      <li><a href="#roster">Roster</a></li>
+      <li><a href="#calendrier">Calendrier</a></li>
+      <li><a href="#conditions">Conditions</a></li>
+      <li><a href="#reseaux">Réseaux</a></li>
+    </ul>
+    <select id="lang" class="lang notranslate" translate="no" aria-label="Langue / Language">
+      <option value="fr">🇫🇷 Français</option>
+      <option value="en">🇬🇧 English</option>
+      <option value="es">🇪🇸 Español</option>
+      <option value="ar">🇸🇦 العربية</option>
+      <option value="de">🇩🇪 Deutsch</option>
+      <option value="pt">🇵🇹 Português</option>
+      <option value="it">🇮🇹 Italiano</option>
+      <option value="tr">🇹🇷 Türkçe</option>
+      <option value="ru">🇷🇺 Русский</option>
+      <option value="nl">🇳🇱 Nederlands</option>
+    </select>
+    <a href="#rejoindre" class="btn" style="padding:9px 18px;font-size:.88rem">Rejoindre</a>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <svg class="hero-mark" viewBox="0 0 120 140" aria-hidden="true"><use href="#emblem"/></svg>
+  <div class="wrap">
+    <span class="live">RECRUTEMENT OUVERT</span>
+    <h1>Team <span class="grad">Horora</span></h1>
+    <p>Équipe esports Fortnite pour joueurs de 13 à 18 ans. On s'entraîne, on progresse ensemble et on vise les tournois. Prêt à nous rejoindre ?</p>
+    <div class="cta">
+      <a href="#rejoindre" class="btn">Postuler maintenant</a>
+      <a href="#roster" class="btn ghost">Voir l'équipe</a>
+      <a href="https://discord.gg/https://discord.gg/esGBajnCM" data-discord target="_blank" rel="noopener noreferrer" class="btn dc"><svg aria-hidden="true" viewBox="0 0 24 24" fill="currentColor"><path d="M20.317 4.37a19.79 19.79 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.74 19.74 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.1 13.1 0 0 1-1.872-.892.077.077 0 0 1-.008-.128c.126-.094.252-.192.372-.291a.074.074 0 0 1 .078-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .079.009c.12.099.246.198.373.292a.077.077 0 0 1-.006.127 12.3 12.3 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.84 19.84 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.06.06 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.956 2.419-2.157 2.419zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.946 2.419-2.157 2.419z"/></svg>Rejoindre le Discord</a>
+    </div>
+  </div>
+</header>
+
+<div class="stats">
+  <div class="wrap">
+    <!-- Les chiffres se changent dans le script, en bas du fichier (const STATS) -->
+    <div class="stat rv"><b data-k="membres">0</b><span>Membres</span></div>
+    <div class="stat rv"><b data-k="tournois">0</b><span>Tournois joués</span></div>
+    <div class="stat rv"><b data-k="top3">0</b><span>Top 3</span></div>
+    <div class="stat rv"><b data-k="entrainements">0</b><span>Entraînements</span></div>
+  </div>
+</div>
+
+<section id="roster">
+  <div class="wrap">
+    <span class="tag">// L'ÉQUIPE</span>
+    <h2>Le <span>roster</span></h2>
+    <p class="sub">Les joueurs qui portent les couleurs de Horora. Remplace les pseudos et les descriptions par ceux de ta team.</p>
+    <div class="grid">
+      <article class="card rv"><div class="avatar">H</div><h3>Pseudo 1</h3><div class="role">Capitaine · IGL</div><p>Il lit les zones, dirige l'équipe et garde son calme dans les fins de partie.</p></article>
+      <article class="card rv"><div class="avatar">O</div><h3>Pseudo 2</h3><div class="role">Fragger</div><p>Agressif et précis, il ouvre les combats et met la pression.</p></article>
+      <article class="card rv"><div class="avatar">R</div><h3>Pseudo 3</h3><div class="role">Builder</div><p>Rapide dans les constructions et les éditions, il sécurise les positions.</p></article>
+      <article class="card rv"><div class="avatar">A</div><h3>Pseudo 4</h3><div class="role">Support</div><p>Il gère les ressources, couvre ses coéquipiers et lance les bonnes actions.</p></article>
+    </div>
+  </div>
+</section>
+
+<section id="calendrier" style="background:var(--bg2)">
+  <div class="wrap">
+    <span class="tag">// PROCHAINS ÉVÉNEMENTS</span>
+    <h2>Le <span>calendrier</span></h2>
+    <p class="sub">Entraînements, scrims et tournois. Modifie les dates et les noms dans le code.</p>
+    <!-- ✏️ Modifie ces lignes -->
+    <div class="match rv"><time>SAM 20h</time><div><strong>Scrim Duo / Trio</strong><small>Serveur Discord Horora</small></div><span class="pill">ENTRAÎNEMENT</span></div>
+    <div class="match rv"><time>DIM 18h</time><div><strong>Tournoi communautaire</strong><small>Inscription ouverte à toute la team</small></div><span class="pill">TOURNOI</span></div>
+    <div class="match rv"><time>MER 19h</time><div><strong>Analyse de replays</strong><small>On corrige nos erreurs ensemble</small></div><span class="pill">COACHING</span></div>
+  </div>
+</section>
+
+<section id="conditions">
+  <div class="wrap">
+    <span class="tag">// REJOINDRE HORORA</span>
+    <h2>Conditions & <span>avantages</span></h2>
+    <p class="sub">Lis bien avant de postuler.</p>
+    <div class="two">
+      <div class="box rv">
+        <h3>Conditions</h3>
+        <ul>
+          <li>Avoir entre <strong>13 et 18 ans</strong> (accord d'un parent ou tuteur obligatoire si moins de 18 ans).</li>
+          <li>Avoir un compte <strong>Discord</strong> et être actif sur le serveur.</li>
+          <li><strong>3 entraînements par semaine</strong> minimum et présence aux tournois.</li>
+          <li>Bonne connexion internet et matériel fonctionnel.</li>
+          <li>Respect de tous : pas d'insultes, de triche ni de harcèlement.</li>
+          <li>Prévenir le staff <strong>24 h avant</strong> en cas d'absence.</li>
+          <li><strong>2 semaines d'essai</strong> avant l'intégration définitive.</li>
+        </ul>
+      </div>
+      <div class="box perks rv">
+        <h3>Ce que tu gagnes</h3>
+        <ul>
+          <li>Un vrai <strong>cadre d'équipe</strong> pour progresser.</li>
+          <li>Du <strong>coaching</strong> et des analyses de parties.</li>
+          <li>Participation à des <strong>tournois</strong> sous les couleurs de Horora.</li>
+          <li>Une <strong>communauté</strong> de joueurs motivés.</li>
+          <li>Visibilité sur nos réseaux (TikTok, YouTube, Instagram).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="rejoindre" style="background:var(--bg2)">
+  <div class="wrap" style="max-width:820px">
+    <span class="tag">// CANDIDATURE</span>
+    <h2>Rejoins la <span>team</span></h2>
+    <p class="sub">Remplis le formulaire. Le staff te répond sous 7 jours.</p>
+    <div class="dcbox rv">
+      <div>
+        <h3>Rejoins notre serveur Discord</h3>
+        <p>Parle avec le staff, suis les entraînements et reçois les annonces de la team.</p>
+      </div>
+      <a href="https://discord.gg/https://discord.gg/esGBajnCM" data-discord target="_blank" rel="noopener noreferrer" class="btn"><svg aria-hidden="true" viewBox="0 0 24 24" fill="currentColor"><path d="M20.317 4.37a19.79 19.79 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.74 19.74 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.1 13.1 0 0 1-1.872-.892.077.077 0 0 1-.008-.128c.126-.094.252-.192.372-.291a.074.074 0 0 1 .078-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .079.009c.12.099.246.198.373.292a.077.077 0 0 1-.006.127 12.3 12.3 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.84 19.84 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.06.06 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.956 2.419-2.157 2.419zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.946 2.419-2.157 2.419z"/></svg>Rejoindre le Discord</a>
+    </div>
+    <div class="formbox rv">
+      <form id="form" novalidate>
+        <div class="row">
+          <div class="field"><label for="pseudo">Pseudo Fortnite</label><input id="pseudo" name="pseudo" autocomplete="nickname"><div class="error" data-for="pseudo"></div></div>
+          <div class="field"><label for="discord">Pseudo Discord</label><input id="discord" name="discord"><div class="error" data-for="discord"></div></div>
+        </div>
+        <div class="row">
+          <div class="field"><label for="email">E-mail</label><input id="email" name="email" type="email" autocomplete="email"><div class="error" data-for="email"></div></div>
+          <div class="field"><label for="age">Âge</label><input id="age" name="age" type="number" min="13" max="18"><div class="error" data-for="age"></div></div>
+        </div>
+        <div id="parentBlock" hidden>
+          <div class="row">
+            <div class="field"><label for="parentNom">Nom du parent / tuteur</label><input id="parentNom" name="parentNom"><div class="error" data-for="parentNom"></div></div>
+            <div class="field"><label for="parentEmail">E-mail du parent / tuteur</label><input id="parentEmail" name="parentEmail" type="email"><div class="error" data-for="parentEmail"></div></div>
+          </div>
+          <div class="field"><div class="check"><input id="parentOk" name="parentOk" type="checkbox"><label for="parentOk">Mon parent ou tuteur est d'accord pour que je rejoigne la team.</label></div><div class="error" data-for="parentOk"></div></div>
+        </div>
+        <div class="row">
+          <div class="field"><label for="plateforme">Plateforme</label>
+            <select id="plateforme" name="plateforme"><option value="">— Choisir —</option><option>PC</option><option>PlayStation</option><option>Xbox</option><option>Switch</option><option>Mobile</option></select><div class="error" data-for="plateforme"></div></div>
+          <div class="field"><label for="rang">Rang / niveau (Ranked)</label><input id="rang" name="rang" placeholder="Ex : Diamant, Élite…"><div class="error" data-for="rang"></div></div>
+        </div>
+        <div class="row">
+          <div class="field"><label for="role">Rôle préféré</label>
+            <select id="role" name="role"><option value="">— Choisir —</option><option>IGL / Capitaine</option><option>Fragger</option><option>Builder</option><option>Support</option><option>Je ne sais pas encore</option></select><div class="error" data-for="role"></div></div>
+          <div class="field"><label for="dispo">Disponibilités</label>
+            <select id="dispo" name="dispo"><option value="">— Choisir —</option><option>Semaine en soirée</option><option>Week-end</option><option>Semaine + week-end</option></select><div class="error" data-for="dispo"></div></div>
+        </div>
+        <div class="field"><label for="motivation">Pourquoi veux-tu rejoindre Horora ?</label><textarea id="motivation" name="motivation"></textarea><div class="error" data-for="motivation"></div></div>
+        <div class="field"><div class="check"><input id="conditions" name="conditions" type="checkbox"><label for="conditions">J'ai lu et j'accepte les conditions pour rejoindre la team.</label></div><div class="error" data-for="conditions"></div></div>
+        <button class="btn" type="submit">Envoyer ma candidature</button>
+      </form>
+      <div id="success" role="status" aria-live="polite">
+        <h3>Candidature envoyée !</h3>
+        <p>Merci <strong id="who"></strong>. Le staff te contactera sur Discord ou par e-mail. Pense à rejoindre notre serveur en attendant.</p>
+        <a href="https://discord.gg/esGBajnCM" data-discord target="_blank" rel="noopener noreferrer" class="btn dc"><svg aria-hidden="true" viewBox="0 0 24 24" fill="currentColor"><path d="M20.317 4.37a19.79 19.79 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.74 19.74 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.1 13.1 0 0 1-1.872-.892.077.077 0 0 1-.008-.128c.126-.094.252-.192.372-.291a.074.074 0 0 1 .078-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .079.009c.12.099.246.198.373.292a.077.077 0 0 1-.006.127 12.3 12.3 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.84 19.84 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.06.06 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.956 2.419-2.157 2.419zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.946 2.419-2.157 2.419z"/></svg>Rejoindre le Discord</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="reseaux">
+  <div class="wrap" style="text-align:center">
+    <span class="tag">// SUIS-NOUS</span>
+    <h2>Nos <span>réseaux</span></h2>
+    <p class="sub" style="margin-inline:auto">Clips, résultats et annonces de recrutement.</p>
+    <!-- ✏️ Remplace chaque lien par celui de TON compte -->
+    <nav class="socials" aria-label="Réseaux sociaux">
+      <a class="s-tt" href="https://www.tiktok.com/@Aura_Elix" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.525.02c1.31-.02 2.61-.01 3.91-.02.08 1.53.63 3.09 1.75 4.17 1.12 1.11 2.7 1.62 4.24 1.79v4.03c-1.44-.05-2.89-.35-4.2-.97-.57-.26-1.1-.59-1.62-.93-.01 2.92.01 5.84-.02 8.75-.08 1.4-.54 2.79-1.35 3.94-1.31 1.92-3.58 3.17-5.91 3.21-1.43.08-2.86-.31-4.08-1.03-2.02-1.19-3.44-3.37-3.65-5.71-.02-.5-.03-1-.01-1.49.18-1.9 1.12-3.72 2.58-4.96 1.66-1.44 3.98-2.13 6.15-1.72.02 1.48-.04 2.96-.04 4.44-.99-.32-2.15-.23-3.02.37-.63.41-1.11 1.04-1.36 1.75-.21.51-.15 1.07-.14 1.61.24 1.64 1.82 3.02 3.5 2.87 1.12-.01 2.19-.66 2.77-1.61.19-.33.4-.67.41-1.06.1-1.79.06-3.57.07-5.36.01-4.03-.01-8.05.02-12.07z"/></svg></a>
+      <a class="s-ig" href="https://www.instagram.com/auroraelix" target="_blank" rel="noopener noreferrer" aria-label="Instagram"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg></a>
+      <a class="s-yt" href="https://www.youtube.com/@Aura_Elix" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><svg viewBox="0 0 24 24" fill="currentColor"><path fill-rule="evenodd" d="M21.6 7.2a2.5 2.5 0 0 0-1.8-1.8C18.2 5 12 5 12 5s-6.2 0-7.8.4A2.5 2.5 0 0 0 2.4 7.2C2 8.8 2 12 2 12s0 3.2.4 4.8a2.5 2.5 0 0 0 1.8 1.8C5.8 19 12 19 12 19s6.2 0 7.8-.4a2.5 2.5 0 0 0 1.8-1.8c.4-1.6.4-4.8.4-4.8s0-3.2-.4-4.8zM10 15V9l5.2 3L10 15z"/></svg></a>
+      <a class="s-dc" data-discord href="https://discord.gg/https://discord.gg/esGBajnCM" target="_blank" rel="noopener noreferrer" aria-label="Discord"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.317 4.37a19.79 19.79 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.74 19.74 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.1 13.1 0 0 1-1.872-.892.077.077 0 0 1-.008-.128c.126-.094.252-.192.372-.291a.074.074 0 0 1 .078-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .079.009c.12.099.246.198.373.292a.077.077 0 0 1-.006.127 12.3 12.3 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.84 19.84 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.06.06 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.956 2.419-2.157 2.419zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.095 2.157 2.419 0 1.334-.946 2.419-2.157 2.419z"/></svg></a>
+    </nav>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p>© 2026 Horora Esports. Tous droits réservés.</p>
+    <p>Site non officiel, non affilié à Epic Games. Fortnite est une marque d'Epic Games, Inc.</p>
+  </div>
+</footer>
+
+<script>
+/* ==================================================
+   ✏️ TES COMPTEURS : change seulement ces 4 nombres,
+   puis enregistre (Ctrl+S). Mets-les à jour après
+   chaque nouveau membre, tournoi, top 3 ou entraînement.
+   ================================================== */
+const STATS = {
+  membres: 0,        // nombre de joueurs qui ont rejoint la team
+  tournois: 0,       // nombre de tournois joués
+  top3: 0,           // nombre de top 3 obtenus
+  entrainements: 0   // nombre d'entraînements faits
+};
+
+/* ==================================================
+   ✏️ TON LIEN DISCORD : colle ici le lien d'invitation
+   de ton serveur (Discord > clic droit sur le serveur >
+   "Inviter des gens"). Il sera utilisé partout sur le site.
+   ================================================== */
+const DISCORD_INVITE = "https://discord.gg/https://discord.gg/esGBajnCM";
+document.querySelectorAll("[data-discord]").forEach(a => a.href = DISCORD_INVITE);
+
+/* ---- Apparition au scroll + compteurs ---- */
+const io = new IntersectionObserver(es => es.forEach(e => {
+  if (!e.isIntersecting) return;
+  e.target.classList.add("in"); io.unobserve(e.target);
+  const b = e.target.querySelector("[data-k]");
+  if (b) {
+    const end = STATS[b.dataset.k] || 0; let n = 0;
+    const t = setInterval(() => { n += Math.max(1, Math.ceil(end / 40)); if (n >= end) { n = end; clearInterval(t); } b.textContent = n; }, 35);
+  }
+}), { threshold: .2 });
+document.querySelectorAll(".rv").forEach(el => io.observe(el));
+
+/* ---- Formulaire ---- */
+const FORMSPREE_URL = "https://formspree.io/f/xvkzbewy"; // ⚠️ Remplace 
+// xvkzbewy par ton code Formspree
+const form = document.getElementById("form");
+const parentBlock = document.getElementById("parentBlock");
+const msg = {
+  pseudo: "Entre ton pseudo Fortnite.", discord: "Entre ton pseudo Discord.",
+  email: "Entre un e-mail valide.", plateforme: "Choisis ta plateforme.",
+  rang: "Indique ton rang.", role: "Choisis un rôle.", dispo: "Choisis tes disponibilités.",
+  motivation: "Écris au moins 30 caractères.", conditions: "Tu dois accepter les conditions."
+};
+function setErr(n, m) {
+  const box = document.querySelector('.error[data-for="' + n + '"]'), el = form.elements[n];
+  if (box) box.textContent = m ? T(m) : ""; if (el) el.classList.toggle("invalid", !!m);
+}
+function validate() {
+  let ok = true; const f = form.elements;
+  Object.keys(msg).forEach(n => {
+    const el = f[n]; setErr(n, "");
+    let bad = el.type === "checkbox" ? !el.checked : !el.value.trim() || !el.checkValidity();
+    if (n === "motivation" && el.value.trim().length < 30) bad = true;
+    if (bad) { setErr(n, msg[n]); ok = false; }
+  });
+  const age = parseInt(f.age.value, 10); setErr("age", "");
+  if (isNaN(age) || age < 13 || age > 18) { setErr("age", "Tu dois avoir entre 13 et 18 ans."); ok = false; }
+  ["parentNom", "parentEmail", "parentOk"].forEach(n => setErr(n, ""));
+  if (age >= 13 && age < 18) {
+    if (!f.parentNom.value.trim()) { setErr("parentNom", "Nom du parent ou tuteur requis."); ok = false; }
+    if (!f.parentEmail.value.trim() || !f.parentEmail.checkValidity()) { setErr("parentEmail", "E-mail du parent invalide."); ok = false; }
+    if (!f.parentOk.checked) { setErr("parentOk", "L'accord du parent est obligatoire."); ok = false; }
+  }
+  return ok;
+}
+form.elements.age.addEventListener("input", () => {
+  const a = parseInt(form.elements.age.value, 10); parentBlock.hidden = !(a >= 13 && a < 18);
+});
+form.addEventListener("input", e => { if (e.target.name) setErr(e.target.name, ""); });
+form.addEventListener("submit", async e => {
+  e.preventDefault();
+  if (!validate()) { const first = form.querySelector(".invalid"); if (first) first.focus(); return; }
+  const data = Object.fromEntries(new FormData(form).entries());
+  const btn = form.querySelector("button[type=submit]");
+  btn.disabled = true; btn.textContent = T("Envoi en cours…");
+  try {
+    const r = await fetch(FORMSPREE_URL, { method: "POST",
+      headers: { "Content-Type": "application/json", "Accept": "application/json" }, body: JSON.stringify(data) });
+    if (!r.ok) throw new Error(r.status);
+  } catch (err) {
+    btn.disabled = false; btn.textContent = T("Envoyer ma candidature");
+    alert(T("L'envoi a échoué. Vérifie ta connexion et réessaie.")); return;
+  }
+  document.getElementById("who").textContent = data.pseudo;
+  form.style.display = "none"; document.getElementById("success").style.display = "block";
+});
+</script>
+<script>
+/* ---- Traduction intégrée : Français / English / Español / العربية ---- */
+const D = [["Roster","Roster","Roster","اللاعبون","Roster","Plantel","Roster","Kadro","Состав","Roster"],["Calendrier","Schedule","Calendario","الجدول","Kalender","Calendário","Calendario","Takvim","Календарь","Agenda"],["Conditions","Requirements","Condiciones","الشروط","Voraussetzungen","Requisitos","Requisiti","Şartlar","Условия","Voorwaarden"],["Réseaux","Socials","Redes","الشبكات","Netzwerke","Redes","Social","Sosyal","Соцсети","Socials"],["Rejoindre","Join","Unirse","انضم","Beitreten","Entrar","Unisciti","Katıl","Вступить","Doe mee"],["RECRUTEMENT OUVERT","RECRUITING NOW","RECLUTAMIENTO ABIERTO","التسجيل مفتوح","REKRUTIERUNG OFFEN","RECRUTAMENTO ABERTO","RECLUTAMENTO APERTO","ALIM AÇIK","НАБОР ОТКРЫТ","WERVING OPEN"],["Team","Team","Equipo","فريق","Team","Equipa","Team","Takım","Команда","Team"],["Équipe esports Fortnite pour joueurs de 13 à 18 ans. On s'entraîne, on progresse ensemble et on vise les tournois. Prêt à nous rejoindre ?","Fortnite esports team for players aged 13 to 18. We train, improve together and aim for tournaments. Ready to join us?","Equipo de esports de Fortnite para jugadores de 13 a 18 años. Entrenamos, progresamos juntos y apuntamos a los torneos. ¿Listo para unirte?","فريق رياضات إلكترونية في فورتنايت للاعبين من 13 إلى 18 سنة. نتدرب ونتطور معًا ونستهدف البطولات. هل أنت مستعد للانضمام إلينا؟","Fortnite-Esports-Team für Spieler von 13 bis 18 Jahren. Wir trainieren, wachsen gemeinsam und peilen Turniere an. Bereit, dich uns anzuschließen?","Equipa de esports de Fortnite para jogadores dos 13 aos 18 anos. Treinamos, evoluímos juntos e visamos os torneios. Pronto para te juntares a nós?","Squadra esports di Fortnite per giocatori dai 13 ai 18 anni. Ci alleniamo, miglioriamo insieme e puntiamo ai tornei. Pronto a unirti a noi?","13-18 yaş arası oyuncular için Fortnite espor takımı. Birlikte antrenman yapıyor, gelişiyor ve turnuvaları hedefliyoruz. Bize katılmaya hazır mısın?","Киберспортивная команда по Fortnite для игроков от 13 до 18 лет. Мы тренируемся, растём вместе и нацелены на турниры. Готов присоединиться?","Fortnite-esportsteam voor spelers van 13 tot 18 jaar. We trainen, groeien samen en mikken op toernooien. Klaar om je bij ons aan te sluiten?"],["Postuler maintenant","Apply now","Postula ahora","قدّم الآن","Jetzt bewerben","Candidata-te agora","Candidati ora","Şimdi başvur","Подать заявку","Meld je nu aan"],["Voir l'équipe","See the team","Ver el equipo","شاهد الفريق","Team ansehen","Ver a equipa","Vedi la squadra","Takımı gör","Смотреть команду","Bekijk het team"],["Membres","Members","Miembros","الأعضاء","Mitglieder","Membros","Membri","Üyeler","Участники","Leden"],["Tournois joués","Tournaments played","Torneos jugados","بطولات لُعبت","Gespielte Turniere","Torneios jogados","Tornei giocati","Oynanan turnuvalar","Сыграно турниров","Gespeelde toernooien"],["Top 3","Top 3","Top 3","المراكز الثلاثة الأولى","Top 3","Top 3","Top 3","İlk 3","Топ-3","Top 3"],["Entraînements","Training sessions","Entrenamientos","التدريبات","Trainings","Treinos","Allenamenti","Antrenmanlar","Тренировки","Trainingen"],["// L'ÉQUIPE","// THE TEAM","// EL EQUIPO","// الفريق","// DAS TEAM","// A EQUIPA","// LA SQUADRA","// TAKIM","// КОМАНДА","// HET TEAM"],["Le","The","El","","","","","","",""],["roster","roster","roster","قائمة اللاعبين","Das Roster","O plantel","Il roster","Kadro","Состав","Het roster"],["Les joueurs qui portent les couleurs de Horora. Remplace les pseudos et les descriptions par ceux de ta team.","The players wearing the Horora colors. Replace the nicknames and descriptions with your team's.","Los jugadores que llevan los colores de Horora. Sustituye los apodos y las descripciones por los de tu equipo.","اللاعبون الذين يحملون ألوان Horora. استبدل الأسماء والأوصاف بأسماء فريقك.","Die Spieler, die die Farben von Horora tragen. Ersetze die Namen und Beschreibungen durch die deines Teams.","Os jogadores que vestem as cores da Horora. Substitui os nomes e as descrições pelos da tua equipa.","I giocatori che indossano i colori di Horora. Sostituisci i nickname e le descrizioni con quelli della tua squadra.","Horora renklerini taşıyan oyuncular. Takma adları ve açıklamaları kendi takımınınkilerle değiştir.","Игроки, которые носят цвета Horora. Замени ники и описания на данные твоей команды.","De spelers die de kleuren van Horora dragen. Vervang de bijnamen en beschrijvingen door die van jouw team."],["Pseudo 1","Player 1","Jugador 1","لاعب 1","Spieler 1","Jogador 1","Giocatore 1","Oyuncu 1","Игрок 1","Speler 1"],["Pseudo 2","Player 2","Jugador 2","لاعب 2","Spieler 2","Jogador 2","Giocatore 2","Oyuncu 2","Игрок 2","Speler 2"],["Pseudo 3","Player 3","Jugador 3","لاعب 3","Spieler 3","Jogador 3","Giocatore 3","Oyuncu 3","Игрок 3","Speler 3"],["Pseudo 4","Player 4","Jugador 4","لاعب 4","Spieler 4","Jogador 4","Giocatore 4","Oyuncu 4","Игрок 4","Speler 4"],["Capitaine · IGL","Captain · IGL","Capitán · IGL","القائد · IGL","Kapitän · IGL","Capitão · IGL","Capitano · IGL","Kaptan · IGL","Капитан · IGL","Aanvoerder · IGL"],["Support","Support","Soporte","الدعم","Support","Suporte","Support","Destek","Саппорт","Support"],["Il lit les zones, dirige l'équipe et garde son calme dans les fins de partie.","He reads the zones, leads the team and stays calm in end-game.","Lee las zonas, dirige al equipo y mantiene la calma en los finales de partida.","يقرأ المناطق ويقود الفريق ويحافظ على هدوئه في نهايات المباريات.","Er liest die Zonen, führt das Team und bleibt in der Endphase ruhig.","Lê as zonas, lidera a equipa e mantém a calma nas fases finais.","Legge le zone, guida la squadra e mantiene la calma nelle fasi finali.","Bölgeleri okur, takımı yönetir ve final anlarında soğukkanlılığını korur.","Читает зоны, ведёт команду и сохраняет спокойствие в финале матча.","Hij leest de zones, leidt het team en blijft kalm in de eindfase."],["Agressif et précis, il ouvre les combats et met la pression.","Aggressive and precise, he opens fights and applies pressure.","Agresivo y preciso, abre los combates y presiona.","هجومي ودقيق، يبدأ المواجهات ويضغط على الخصوم.","Aggressiv und präzise, er eröffnet die Kämpfe und setzt unter Druck.","Agressivo e preciso, abre os combates e pressiona.","Aggressivo e preciso, apre gli scontri e mette pressione.","Agresif ve isabetli, çatışmaları başlatır ve baskı kurar.","Агрессивный и точный, начинает бои и давит на соперников.","Agressief en precies, hij opent de gevechten en zet druk."],["Rapide dans les constructions et les éditions, il sécurise les positions.","Fast at building and editing, he secures positions.","Rápido construyendo y editando, asegura las posiciones.","سريع في البناء والتعديل، ويؤمّن المواقع.","Schnell beim Bauen und Editieren, er sichert die Positionen.","Rápido a construir e editar, garante as posições.","Veloce nelle costruzioni e nelle modifiche, assicura le posizioni.","İnşa ve düzenlemede hızlı, pozisyonları güvenceye alır.","Быстро строит и редактирует, обеспечивает позиции.","Snel in bouwen en editen, hij beveiligt de posities."],["Il gère les ressources, couvre ses coéquipiers et lance les bonnes actions.","He manages resources, covers teammates and starts the right plays.","Gestiona los recursos, cubre a sus compañeros y lanza las jugadas correctas.","يدير الموارد ويغطي زملاءه ويبدأ التحركات الصحيحة.","Er verwaltet die Ressourcen, deckt seine Teamkollegen und startet die richtigen Aktionen.","Gere os recursos, cobre os colegas e inicia as jogadas certas.","Gestisce le risorse, copre i compagni e avvia le azioni giuste.","Kaynakları yönetir, takım arkadaşlarını korur ve doğru hamleleri başlatır.","Управляет ресурсами, прикрывает союзников и запускает нужные действия.","Hij beheert de middelen, dekt zijn teamgenoten en start de juiste acties."],["// PROCHAINS ÉVÉNEMENTS","// UPCOMING EVENTS","// PRÓXIMOS EVENTOS","// الفعاليات القادمة","// NÄCHSTE EVENTS","// PRÓXIMOS EVENTOS","// PROSSIMI EVENTI","// YAKLAŞAN ETKİNLİKLER","// БЛИЖАЙШИЕ СОБЫТИЯ","// KOMENDE EVENEMENTEN"],["calendrier","schedule","calendario","جدول المواعيد","Der Kalender","O calendário","Il calendario","Takvim","Календарь","De agenda"],["Entraînements, scrims et tournois. Modifie les dates et les noms dans le code.","Training sessions, scrims and tournaments.","Entrenamientos, scrims y torneos.","تدريبات ومباريات تجريبية وبطولات.","Trainings, Scrims und Turniere.","Treinos, scrims e torneios.","Allenamenti, scrim e tornei.","Antrenmanlar, scrim'ler ve turnuvalar.","Тренировки, скримы и турниры.","Trainingen, scrims en toernooien."],["SAM 20h","SAT 8pm","SÁB 20h","السبت 20:00","SA 20 Uhr","SÁB 20h","SAB 20:00","CMT 20:00","СБ 20:00","ZA 20u"],["DIM 18h","SUN 6pm","DOM 18h","الأحد 18:00","SO 18 Uhr","DOM 18h","DOM 18:00","PAZ 18:00","ВС 18:00","ZO 18u"],["MER 19h","WED 7pm","MIÉ 19h","الأربعاء 19:00","MI 19 Uhr","QUA 19h","MER 19:00","ÇAR 19:00","СР 19:00","WO 19u"],["Scrim Duo / Trio","Duo / Trio scrim","Scrim Dúo / Trío","مباراة تجريبية ثنائي / ثلاثي","Duo-/Trio-Scrim","Scrim Duo / Trio","Scrim Duo / Trio","Duo / Trio scrim","Скрим дуо / трио","Duo-/Trio-scrim"],["Serveur Discord Horora","Horora Discord server","Servidor de Discord de Horora","خادم Discord الخاص بـ Horora","Horora-Discord-Server","Servidor de Discord da Horora","Server Discord di Horora","Horora Discord sunucusu","Discord-сервер Horora","Horora Discord-server"],["ENTRAÎNEMENT","TRAINING","ENTRENAMIENTO","تدريب","TRAINING","TREINO","ALLENAMENTO","ANTRENMAN","ТРЕНИРОВКА","TRAINING"],["Tournoi communautaire","Community tournament","Torneo comunitario","بطولة مجتمعية","Community-Turnier","Torneio da comunidade","Torneo della community","Topluluk turnuvası","Турнир сообщества","Communitytoernooi"],["Inscription ouverte à toute la team","Open to the whole team","Inscripción abierta a todo el equipo","التسجيل مفتوح لكل الفريق","Anmeldung für das ganze Team offen","Inscrição aberta a toda a equipa","Iscrizione aperta a tutta la squadra","Tüm takıma açık kayıt","Регистрация открыта для всей команды","Inschrijving open voor het hele team"],["TOURNOI","TOURNAMENT","TORNEO","بطولة","TURNIER","TORNEIO","TORNEO","TURNUVA","ТУРНИР","TOERNOOI"],["Analyse de replays","Replay review","Análisis de repeticiones","تحليل الإعادات","Replay-Analyse","Análise de replays","Analisi dei replay","Tekrar analizi","Разбор повторов","Replay-analyse"],["On corrige nos erreurs ensemble","We fix our mistakes together","Corregimos nuestros errores juntos","نصحح أخطاءنا معًا","Wir korrigieren unsere Fehler gemeinsam","Corrigimos os nossos erros juntos","Correggiamo i nostri errori insieme","Hatalarımızı birlikte düzeltiriz","Исправляем ошибки вместе","We corrigeren onze fouten samen"],["COACHING","COACHING","COACHING","توجيه","COACHING","COACHING","COACHING","KOÇLUK","КОУЧИНГ","COACHING"],["// REJOINDRE HORORA","// JOIN HORORA","// ÚNETE A HORORA","// انضم إلى HORORA","// HORORA BEITRETEN","// ENTRAR NA HORORA","// UNISCITI A HORORA","// HORORA'YA KATIL","// ВСТУПИ В HORORA","// WORD LID VAN HORORA"],["Conditions &","Requirements &","Condiciones y","الشروط و","Voraussetzungen &","Requisitos e","Requisiti e","Şartlar ve","Условия и","Voorwaarden &"],["avantages","perks","ventajas","المزايا","Vorteile","vantagens","vantaggi","avantajlar","преимущества","voordelen"],["Lis bien avant de postuler.","Read carefully before applying.","Lee bien antes de postular.","اقرأ جيدًا قبل التقديم.","Lies alles sorgfältig, bevor du dich bewirbst.","Lê com atenção antes de te candidatares.","Leggi con attenzione prima di candidarti.","Başvurmadan önce dikkatlice oku.","Внимательно прочитай перед подачей заявки.","Lees alles goed voordat je je aanmeldt."],["Avoir entre","Be between","Tener entre","أن يكون عمرك بين","Zwischen","Ter entre","Avere tra","","Возраст от","Tussen"],["13 et 18 ans","13 and 18 years old","13 y 18 años","13 و18 سنة","13 und 18 Jahren","13 e 18 anos","13 e 18 anni","13 ile 18 yaş arasında","13 до 18 лет","13 en 18 jaar"],["(accord d'un parent ou tuteur obligatoire si moins de 18 ans).","(a parent or guardian's consent is required if under 18).","(autorización de un padre o tutor obligatoria si eres menor de 18).","(موافقة أحد الوالدين أو الوصي إلزامية إذا كان عمرك أقل من 18).","alt sein (Einverständnis der Eltern oder eines Erziehungsberechtigten ist unter 18 Pflicht).","(autorização de um pai ou responsável obrigatória se tiveres menos de 18).","(autorizzazione di un genitore o tutore obbligatoria se hai meno di 18 anni).","olmak (18 yaşından küçükse ebeveyn veya vasi izni zorunludur).","(для несовершеннолетних обязательно согласие родителя или опекуна).","oud zijn (toestemming van een ouder of voogd is verplicht als je jonger bent dan 18)."],["Avoir un compte","Have a","Tener una cuenta de","أن يكون لديك حساب","Ein","Ter uma conta de","Avere un account","","Иметь аккаунт","Een"],["Discord","Discord","Discord","Discord","Discord","Discord","Discord","Discord","Discord","Discord"],["et être actif sur le serveur.","account and be active on the server.","y estar activo en el servidor.","وأن تكون نشطًا على الخادم.","Konto haben und auf dem Server aktiv sein.","e estar ativo no servidor.","ed essere attivo sul server.","hesabına sahip olmak ve sunucuda aktif olmak.","и быть активным на сервере.","account hebben en actief zijn op de server."],["3 entraînements par semaine","3 training sessions per week","3 entrenamientos por semana","3 تدريبات أسبوعيًا","3 Trainingseinheiten pro Woche","3 treinos por semana","3 allenamenti a settimana","Haftada 3 antrenman","3 тренировки в неделю","3 trainingen per week"],["minimum et présence aux tournois.","minimum and attendance at tournaments.","como mínimo y presencia en los torneos.","كحد أدنى والحضور في البطولات.","mindestens und Teilnahme an Turnieren.","no mínimo e presença nos torneios.","come minimo e presenza ai tornei.","en az ve turnuvalara katılım.","минимум и участие в турнирах.","minimaal en aanwezigheid bij toernooien."],["Bonne connexion internet et matériel fonctionnel.","Good internet connection and working equipment.","Buena conexión a internet y equipo que funcione.","اتصال إنترنت جيد وجهاز يعمل.","Gute Internetverbindung und funktionierende Ausrüstung.","Boa ligação à internet e equipamento a funcionar.","Buona connessione internet e attrezzatura funzionante.","İyi bir internet bağlantısı ve çalışan ekipman.","Хорошее интернет-соединение и исправное оборудование.","Goede internetverbinding en werkende apparatuur."],["Respect de tous : pas d'insultes, de triche ni de harcèlement.","Respect everyone: no insults, cheating or harassment.","Respeto a todos: nada de insultos, trampas ni acoso.","احترام الجميع: لا شتائم ولا غش ولا تنمر.","Respekt gegenüber allen: keine Beleidigungen, kein Cheaten und keine Belästigung.","Respeito por todos: sem insultos, batota nem assédio.","Rispetto per tutti: niente insulti, cheat o molestie.","Herkese saygı: hakaret, hile veya taciz yok.","Уважение ко всем: никаких оскорблений, читов и травли.","Respect voor iedereen: geen beledigingen, valsspelen of pesten."],["Prévenir le staff","Warn the staff","Avisar al staff","إبلاغ الإدارة","Das Staff","Avisar o staff","Avvisare lo staff","Yokluk durumunda yönetimi","Предупреждать администрацию","Het staff"],["24 h avant","24 h in advance","24 h antes","قبل 24 ساعة","24 Stunden vorher","24 h antes","24 ore prima","24 saat önce","за 24 часа","24 uur van tevoren"],["en cas d'absence.","if you will be absent.","en caso de ausencia.","في حالة الغياب.","informieren, wenn du fehlst.","em caso de ausência.","in caso di assenza.","bilgilendirmek.","в случае отсутствия.","waarschuwen bij afwezigheid."],["2 semaines d'essai","2-week trial period","2 semanas de prueba","فترة تجربة لمدة أسبوعين","2 Wochen Probezeit","2 semanas de teste","2 settimane di prova","2 haftalık deneme süresi","2 недели испытательного срока","2 weken proeftijd"],["avant l'intégration définitive.","before final admission.","antes de la integración definitiva.","قبل الانضمام النهائي.","vor der endgültigen Aufnahme.","antes da integração definitiva.","prima dell'ingresso definitivo.","kesin katılımdan önce.","до окончательного вступления.","voor de definitieve opname."],["Ce que tu gagnes","What you get","Lo que ganas","ما ستكسبه","Das bekommst du","O que ganhas","Cosa ottieni","Neler kazanırsın","Что ты получишь","Wat je krijgt"],["Un vrai","A real","Un verdadero","لديك","Ein echter","Um verdadeiro","Un vero","Gelişmek için gerçek bir","Настоящая","Een echte"],["cadre d'équipe","team environment","entorno de equipo","إطار جماعي حقيقي","Teamrahmen","ambiente de equipa","contesto di squadra","takım ortamı","командная среда","teamomgeving"],["pour progresser.","to improve.","para progresar.","للتطور.","zum Verbessern.","para evoluir.","per migliorare.",".","для роста.","om te groeien."],["Du","Access to","Sesiones de","جلسات","","Acesso a","Sessioni di","","",""],["coaching","coaching","coaching","توجيه","Coaching","coaching","coaching","Koçluk","Коучинг","Coaching"],["et des analyses de parties.","and match analysis.","y análisis de partidas.","وتحليل للمباريات.","und Spielanalysen.","e análise de partidas.","e analisi delle partite.","ve maç analizleri.","и разбор игр.","en wedstrijdanalyses."],["Participation à des","Take part in","Participación en","المشاركة في","Teilnahme an","Participação em","Partecipazione a","Horora renkleriyle","Участие в","Deelname aan"],["tournois","tournaments","torneos","بطولات","Turnieren","torneios","tornei","turnuvalara","турнирах","toernooien"],["sous les couleurs de Horora.","under the Horora colors.","con los colores de Horora.","تحت ألوان Horora.","unter den Farben von Horora.","com as cores da Horora.","con i colori di Horora.","katılım.","под цветами Horora.","onder de kleuren van Horora."],["Une","A","Una","ستجد","Eine","Uma","Una","Motive oyunculardan oluşan bir","Сообщество","Een"],["communauté","community","comunidad","مجتمعًا","Community","comunidade","community","topluluk","мотивированных","community"],["de joueurs motivés.","of motivated players.","de jugadores motivados.","من اللاعبين المتحمسين.","motivierter Spieler.","de jogadores motivados.","di giocatori motivati.",".","игроков.","van gemotiveerde spelers."],["Visibilité sur nos réseaux (TikTok, YouTube, Instagram).","Visibility on our social networks (TikTok, YouTube, Instagram).","Visibilidad en nuestras redes (TikTok, YouTube, Instagram).","ظهور على شبكاتنا (TikTok وYouTube وInstagram).","Sichtbarkeit auf unseren Netzwerken (TikTok, YouTube, Instagram).","Visibilidade nas nossas redes (TikTok, YouTube, Instagram).","Visibilità sui nostri social (TikTok, YouTube, Instagram).","Sosyal ağlarımızda görünürlük (TikTok, YouTube, Instagram).","Известность в наших соцсетях (TikTok, YouTube, Instagram).","Zichtbaarheid op onze socials (TikTok, YouTube, Instagram)."],["// CANDIDATURE","// APPLICATION","// CANDIDATURA","// طلب الانضمام","// BEWERBUNG","// CANDIDATURA","// CANDIDATURA","// BAŞVURU","// ЗАЯВКА","// AANMELDING"],["Rejoins la","Join the","Únete al","انضم إلى","Werde Teil des","Junta-te à","Unisciti alla","Takıma","Вступай в","Word lid van het"],["team","team","equipo","الفريق","Teams","equipa","squadra","katıl","команду","team"],["Remplis le formulaire. Le staff te répond sous 7 jours.","Fill in the form. The staff will reply within 7 days.","Rellena el formulario. El staff te responde en 7 días.","املأ الاستمارة. ترد عليك الإدارة خلال 7 أيام.","Fülle das Formular aus. Das Staff antwortet innerhalb von 7 Tagen.","Preenche o formulário. O staff responde em 7 dias.","Compila il modulo. Lo staff ti risponde entro 7 giorni.","Formu doldur. Yönetim 7 gün içinde sana döner.","Заполни форму. Администрация ответит в течение 7 дней.","Vul het formulier in. Het staff antwoordt binnen 7 dagen."],["Pseudo Fortnite","Fortnite nickname","Apodo de Fortnite","اسمك في فورتنايت","Fortnite-Spielername","Nome no Fortnite","Nickname Fortnite","Fortnite takma adın","Ник в Fortnite","Fortnite-gebruikersnaam"],["Pseudo Discord","Discord username","Usuario de Discord","اسم Discord","Discord-Name","Nome no Discord","Nickname Discord","Discord kullanıcı adın","Ник в Discord","Discord-naam"],["E-mail","E-mail","Correo electrónico","البريد الإلكتروني","E-Mail","E-mail","E-mail","E-posta","Эл. почта","E-mail"],["Âge","Age","Edad","العمر","Alter","Idade","Età","Yaş","Возраст","Leeftijd"],["Nom du parent / tuteur","Parent / guardian name","Nombre del padre / tutor","اسم أحد الوالدين / الوصي","Name des Elternteils / Erziehungsberechtigten","Nome do pai / encarregado","Nome del genitore / tutore","Ebeveyn / vasi adı","Имя родителя / опекуна","Naam ouder / voogd"],["E-mail du parent / tuteur","Parent / guardian e-mail","Correo del padre / tutor","بريد أحد الوالدين / الوصي","E-Mail des Elternteils / Erziehungsberechtigten","E-mail do pai / encarregado","E-mail del genitore / tutore","Ebeveyn / vasi e-postası","Эл. почта родителя / опекуна","E-mail ouder / voogd"],["Mon parent ou tuteur est d'accord pour que je rejoigne la team.","My parent or guardian agrees to me joining the team.","Mi padre o tutor está de acuerdo en que me una al equipo.","وافق أحد والديّ أو وصيّي على انضمامي إلى الفريق.","Mein Elternteil oder Erziehungsberechtigter ist damit einverstanden, dass ich dem Team beitrete.","O meu pai ou encarregado de educação concorda que eu entre na equipa.","Il mio genitore o tutore è d'accordo che io entri nella squadra.","Ebeveynim veya vasim takıma katılmama izin veriyor.","Мой родитель или опекун согласен, чтобы я вступил в команду.","Mijn ouder of voogd is akkoord dat ik me bij het team aansluit."],["Plateforme","Platform","Plataforma","المنصة","Plattform","Plataforma","Piattaforma","Platform","Платформа","Platform"],["— Choisir —","— Choose —","— Elegir —","— اختر —","— Auswählen —","— Escolher —","— Scegli —","— Seç —","— Выбрать —","— Kiezen —"],["Mobile","Mobile","Móvil","الجوال","Mobil","Telemóvel","Mobile","Mobil","Мобильное","Mobiel"],["Rang / niveau (Ranked)","Rank / level (Ranked)","Rango / nivel (Ranked)","الرتبة / المستوى (Ranked)","Rang / Level (Ranked)","Rank / nível (Ranked)","Rank / livello (Ranked)","Rütbe / seviye (Ranked)","Ранг / уровень (Ranked)","Rang / niveau (Ranked)"],["Rôle préféré","Preferred role","Rol preferido","الدور المفضل","Bevorzugte Rolle","Função preferida","Ruolo preferito","Tercih edilen rol","Предпочитаемая роль","Voorkeursrol"],["IGL / Capitaine","IGL / Captain","IGL / Capitán","IGL / القائد","IGL / Kapitän","IGL / Capitão","IGL / Capitano","IGL / Kaptan","IGL / Капитан","IGL / Aanvoerder"],["Je ne sais pas encore","I don't know yet","Aún no lo sé","لا أعرف بعد","Ich weiß es noch nicht","Ainda não sei","Non lo so ancora","Henüz bilmiyorum","Пока не знаю","Ik weet het nog niet"],["Disponibilités","Availability","Disponibilidad","الأوقات المتاحة","Verfügbarkeit","Disponibilidade","Disponibilità","Müsaitlik","Доступность","Beschikbaarheid"],["Semaine en soirée","Weekday evenings","Entre semana por la tarde","مساء أيام الأسبوع","Wochentags abends","Dias úteis à noite","Sere in settimana","Hafta içi akşamları","Будни вечером","Doordeweeks 's avonds"],["Week-end","Weekends","Fines de semana","عطلة نهاية الأسبوع","Wochenende","Fim de semana","Weekend","Hafta sonu","Выходные","Weekend"],["Semaine + week-end","Weekdays + weekends","Entre semana + fines de semana","أيام الأسبوع + العطلة","Wochentags + Wochenende","Dias úteis + fim de semana","Settimana + weekend","Hafta içi + hafta sonu","Будни + выходные","Doordeweeks + weekend"],["Pourquoi veux-tu rejoindre Horora ?","Why do you want to join Horora?","¿Por qué quieres unirte a Horora?","لماذا تريد الانضمام إلى Horora؟","Warum möchtest du Horora beitreten?","Porque queres entrar na Horora?","Perché vuoi unirti a Horora?","Horora'ya neden katılmak istiyorsun?","Почему ты хочешь вступить в Horora?","Waarom wil je lid worden van Horora?"],["J'ai lu et j'accepte les conditions pour rejoindre la team.","I have read and accept the requirements to join the team.","He leído y acepto las condiciones para unirme al equipo.","قرأت شروط الانضمام إلى الفريق وأوافق عليها.","Ich habe die Voraussetzungen gelesen und akzeptiere sie.","Li e aceito os requisitos para entrar na equipa.","Ho letto e accetto i requisiti per entrare nella squadra.","Takıma katılma şartlarını okudum ve kabul ediyorum.","Я прочитал условия вступления в команду и принимаю их.","Ik heb de voorwaarden gelezen en accepteer ze."],["Envoyer ma candidature","Send my application","Enviar mi candidatura","أرسل طلبي","Bewerbung senden","Enviar a minha candidatura","Invia la mia candidatura","Başvurumu gönder","Отправить заявку","Aanmelding versturen"],["Candidature envoyée !","Application sent!","¡Candidatura enviada!","تم إرسال الطلب!","Bewerbung gesendet!","Candidatura enviada!","Candidatura inviata!","Başvuru gönderildi!","Заявка отправлена!","Aanmelding verstuurd!"],["Merci","Thank you","Gracias","شكرًا","Danke","Obrigado","Grazie","Teşekkürler","Спасибо","Bedankt"],[". Le staff te contactera sur Discord ou par e-mail. Pense à rejoindre notre serveur en attendant.",". The staff will contact you on Discord or by e-mail. Join our server while you wait.",". El staff te contactará por Discord o por correo. Únete a nuestro servidor mientras esperas.",". ستتواصل معك الإدارة عبر Discord أو البريد الإلكتروني. انضم إلى خادمنا في الأثناء.",". Das Staff meldet sich über Discord oder per E-Mail bei dir. Tritt in der Zwischenzeit unserem Server bei.",". O staff vai contactar-te no Discord ou por e-mail. Entra no nosso servidor enquanto esperas.",". Lo staff ti contatterà su Discord o via e-mail. Entra nel nostro server nel frattempo.",". Yönetim seninle Discord veya e-posta ile iletişime geçecek. Beklerken sunucumuza katıl.",". Администрация свяжется с тобой в Discord или по эл. почте. Пока вступай на наш сервер.",". Het staff neemt contact met je op via Discord of e-mail. Sluit je intussen aan bij onze server."],["// SUIS-NOUS","// FOLLOW US","// SÍGUENOS","// تابعنا","// FOLGE UNS","// SEGUE-NOS","// SEGUICI","// BİZİ TAKİP ET","// ПОДПИСЫВАЙСЯ","// VOLG ONS"],["Nos","Our","Nuestras","","Unsere","As nossas","I nostri","","Наши","Onze"],["réseaux","socials","redes","حساباتنا","Netzwerke","redes","social","Sosyal ağlarımız","соцсети","socials"],["Clips, résultats et annonces de recrutement.","Clips, results and recruitment announcements.","Clips, resultados y anuncios de reclutamiento.","مقاطع ونتائج وإعلانات التوظيف.","Clips, Ergebnisse und Rekrutierungs-Ankündigungen.","Clipes, resultados e anúncios de recrutamento.","Clip, risultati e annunci di reclutamento.","Klipler, sonuçlar ve alım duyuruları.","Клипы, результаты и объявления о наборе.","Clips, resultaten en wervingsaankondigingen."],["© 2026 Horora Esports. Tous droits réservés.","© 2026 Horora Esports. All rights reserved.","© 2026 Horora Esports. Todos los derechos reservados.","© 2026 Horora Esports. جميع الحقوق محفوظة.","© 2026 Horora Esports. Alle Rechte vorbehalten.","© 2026 Horora Esports. Todos os direitos reservados.","© 2026 Horora Esports. Tutti i diritti riservati.","© 2026 Horora Esports. Tüm hakları saklıdır.","© 2026 Horora Esports. Все права защищены.","© 2026 Horora Esports. Alle rechten voorbehouden."],["Site non officiel, non affilié à Epic Games. Fortnite est une marque d'Epic Games, Inc.","Unofficial site, not affiliated with Epic Games. Fortnite is a trademark of Epic Games, Inc.","Sitio no oficial, no afiliado a Epic Games. Fortnite es una marca de Epic Games, Inc.","موقع غير رسمي وغير تابع لشركة Epic Games. فورتنايت علامة تجارية لشركة Epic Games, Inc.","Inoffizielle Seite, nicht mit Epic Games verbunden. Fortnite ist eine Marke von Epic Games, Inc.","Site não oficial, não afiliado à Epic Games. Fortnite é uma marca da Epic Games, Inc.","Sito non ufficiale, non affiliato a Epic Games. Fortnite è un marchio di Epic Games, Inc.","Resmî olmayan site, Epic Games ile bağlantılı değildir. Fortnite, Epic Games, Inc. şirketinin ticari markasıdır.","Неофициальный сайт, не связан с Epic Games. Fortnite — товарный знак Epic Games, Inc.","Onofficiële site, niet verbonden aan Epic Games. Fortnite is een merk van Epic Games, Inc."],["Ex : Diamant, Élite…","E.g. Diamond, Elite…","Ej.: Diamante, Élite…","مثال: ماسي، النخبة…","z. B. Diamant, Elite…","Ex.: Diamante, Elite…","Es.: Diamante, Élite…","Örn: Elmas, Elit…","Напр.: Алмаз, Элита…","Bijv. Diamant, Elite…"],["Entre ton pseudo Fortnite.","Enter your Fortnite nickname.","Escribe tu apodo de Fortnite.","أدخل اسمك في فورتنايت.","Gib deinen Fortnite-Namen ein.","Indica o teu nome no Fortnite.","Inserisci il tuo nickname Fortnite.","Fortnite takma adını gir.","Введи свой ник в Fortnite.","Vul je Fortnite-gebruikersnaam in."],["Entre ton pseudo Discord.","Enter your Discord username.","Escribe tu usuario de Discord.","أدخل اسم Discord الخاص بك.","Gib deinen Discord-Namen ein.","Indica o teu nome no Discord.","Inserisci il tuo nickname Discord.","Discord kullanıcı adını gir.","Введи свой ник в Discord.","Vul je Discord-naam in."],["Entre un e-mail valide.","Enter a valid e-mail.","Escribe un correo válido.","أدخل بريدًا إلكترونيًا صحيحًا.","Gib eine gültige E-Mail ein.","Indica um e-mail válido.","Inserisci un'e-mail valida.","Geçerli bir e-posta gir.","Введи действительный адрес почты.","Vul een geldig e-mailadres in."],["Choisis ta plateforme.","Choose your platform.","Elige tu plataforma.","اختر منصتك.","Wähle deine Plattform.","Escolhe a tua plataforma.","Scegli la tua piattaforma.","Platformunu seç.","Выбери платформу.","Kies je platform."],["Indique ton rang.","Enter your rank.","Indica tu rango.","أدخل رتبتك.","Gib deinen Rang an.","Indica o teu rank.","Indica il tuo rank.","Rütbeni belirt.","Укажи свой ранг.","Geef je rang op."],["Choisis un rôle.","Choose a role.","Elige un rol.","اختر دورًا.","Wähle eine Rolle.","Escolhe uma função.","Scegli un ruolo.","Bir rol seç.","Выбери роль.","Kies een rol."],["Choisis tes disponibilités.","Choose your availability.","Elige tu disponibilidad.","اختر أوقاتك المتاحة.","Wähle deine Verfügbarkeit.","Escolhe a tua disponibilidade.","Scegli la tua disponibilità.","Müsaitliğini seç.","Выбери доступность.","Kies je beschikbaarheid."],["Écris au moins 30 caractères.","Write at least 30 characters.","Escribe al menos 30 caracteres.","اكتب 30 حرفًا على الأقل.","Schreibe mindestens 30 Zeichen.","Escreve pelo menos 30 caracteres.","Scrivi almeno 30 caratteri.","En az 30 karakter yaz.","Напиши не менее 30 символов.","Schrijf minstens 30 tekens."],["Tu dois accepter les conditions.","You must accept the requirements.","Debes aceptar las condiciones.","يجب أن توافق على الشروط.","Du musst die Voraussetzungen akzeptieren.","Tens de aceitar os requisitos.","Devi accettare i requisiti.","Şartları kabul etmelisin.","Нужно принять условия.","Je moet de voorwaarden accepteren."],["Tu dois avoir entre 13 et 18 ans.","You must be between 13 and 18.","Debes tener entre 13 y 18 años.","يجب أن يكون عمرك بين 13 و18 سنة.","Du musst zwischen 13 und 18 Jahre alt sein.","Tens de ter entre 13 e 18 anos.","Devi avere tra 13 e 18 anni.","13 ile 18 yaş arasında olmalısın.","Тебе должно быть от 13 до 18 лет.","Je moet tussen 13 en 18 jaar oud zijn."],["Nom du parent ou tuteur requis.","Parent or guardian name required.","Nombre del padre o tutor obligatorio.","اسم أحد الوالدين أو الوصي مطلوب.","Name des Elternteils oder Erziehungsberechtigten erforderlich.","Nome do pai ou encarregado obrigatório.","Nome del genitore o tutore obbligatorio.","Ebeveyn veya vasi adı gerekli.","Укажи имя родителя или опекуна.","Naam van ouder of voogd verplicht."],["E-mail du parent invalide.","Parent e-mail is invalid.","Correo del padre no válido.","بريد أحد الوالدين غير صحيح.","E-Mail des Elternteils ist ungültig.","E-mail do pai inválido.","E-mail del genitore non valida.","Ebeveyn e-postası geçersiz.","Эл. почта родителя недействительна.","E-mail van ouder ongeldig."],["L'accord du parent est obligatoire.","Parent's consent is required.","El permiso del padre es obligatorio.","موافقة أحد الوالدين إلزامية.","Die Zustimmung der Eltern ist erforderlich.","A autorização dos pais é obrigatória.","Il consenso del genitore è obbligatorio.","Ebeveyn izni zorunludur.","Согласие родителя обязательно.","Toestemming van de ouder is verplicht."],["L'envoi a échoué. Vérifie ta connexion et réessaie.","Sending failed. Check your connection and try again.","El envío falló. Revisa tu conexión e inténtalo de nuevo.","فشل الإرسال. تحقق من اتصالك وأعد المحاولة.","Senden fehlgeschlagen. Prüfe deine Verbindung und versuche es erneut.","O envio falhou. Verifica a tua ligação e tenta de novo.","Invio non riuscito. Controlla la connessione e riprova.","Gönderim başarısız. Bağlantını kontrol edip tekrar dene.","Не удалось отправить. Проверь соединение и попробуй снова.","Verzenden mislukt. Controleer je verbinding en probeer opnieuw."],["Envoi en cours…","Sending…","Enviando…","جارٍ الإرسال…","Wird gesendet…","A enviar…","Invio in corso…","Gönderiliyor…","Отправка…","Verzenden…"],["Rejoindre le Discord","Join the Discord","Unirse al Discord","انضم إلى Discord","Discord beitreten","Entrar no Discord","Unisciti al Discord","Discord'a katıl","Вступить в Discord","Join de Discord"],["Rejoins notre serveur Discord","Join our Discord server","Únete a nuestro servidor de Discord","انضم إلى خادم Discord الخاص بنا","Tritt unserem Discord-Server bei","Entra no nosso servidor de Discord","Entra nel nostro server Discord","Discord sunucumuza katıl","Вступай на наш Discord-сервер","Sluit je aan bij onze Discord-server"],["Parle avec le staff, suis les entraînements et reçois les annonces de la team.","Talk with the staff, follow the training sessions and get the team announcements.","Habla con el staff, sigue los entrenamientos y recibe los anuncios del equipo.","تحدث مع الإدارة وتابع التدريبات واحصل على إعلانات الفريق.","Sprich mit dem Staff, verfolge die Trainings und erhalte die Team-Ankündigungen.","Fala com o staff, acompanha os treinos e recebe os anúncios da equipa.","Parla con lo staff, segui gli allenamenti e ricevi gli annunci della squadra.","Yönetimle konuş, antrenmanları takip et ve takım duyurularını al.","Общайся с администрацией, следи за тренировками и получай объявления команды.","Praat met het staff, volg de trainingen en ontvang de aankondigingen van het team."]];
+const LANGS = { fr: 0, en: 1, es: 2, ar: 3, de: 4, pt: 5, it: 6, tr: 7, ru: 8, nl: 9 };
+const MAP = {}; D.forEach(r => MAP[r[0]] = r);
+let cur = "fr";
+function T(fr) { const r = MAP[fr]; return (r && r[LANGS[cur]] !== undefined) ? r[LANGS[cur]] : fr; }
+
+// Les options sans "value" gardent leur texte français à l'envoi du formulaire
+document.querySelectorAll("option").forEach(o => { if (!o.hasAttribute("value")) o.value = o.textContent.trim(); });
+
+const nodes = [];
+const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, { acceptNode(n) {
+  const p = n.parentElement;
+  if (!p || p.closest("script,style,svg,.notranslate,[translate=no]")) return NodeFilter.FILTER_REJECT;
+  return n.nodeValue.trim() ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+}});
+while (walker.nextNode()) nodes.push({ n: walker.currentNode, o: walker.currentNode.nodeValue });
+
+const rang = document.getElementById("rang"); const phFr = rang.placeholder;
+
+function setLang(l) {
+  if (!(l in LANGS)) l = "fr";
+  cur = l; const i = LANGS[l];
+  nodes.forEach(({ n, o }) => {
+    if (!n.isConnected) return;
+    const m = o.match(/^(\s*)([\s\S]*?)(\s*)$/);
+    const r = MAP[m[2].replace(/\s+/g, " ")];
+    n.nodeValue = (r && r[i] !== undefined) ? m[1] + r[i] + m[3] : o;
+  });
+  rang.placeholder = T(phFr);
+  document.querySelectorAll(".error").forEach(e => e.textContent = "");
+  document.querySelectorAll(".invalid").forEach(e => e.classList.remove("invalid"));
+  document.documentElement.lang = l;
+  document.documentElement.dir = l === "ar" ? "rtl" : "ltr";
+  document.getElementById("lang").value = l;
+  try { localStorage.setItem("lang", l); } catch (e) {}
+}
+
+document.getElementById("lang").addEventListener("change", e => setLang(e.target.value));
+
+// Langue au chargement : choix précédent, sinon langue du navigateur du visiteur
+let start = "fr";
+try { start = localStorage.getItem("lang") || ""; } catch (e) {}
+if (!start) { const nl = (navigator.language || "fr").slice(0, 2).toLowerCase(); start = nl in LANGS ? nl : "fr"; }
+if (start !== "fr") setLang(start);
+</script>
+</body>
+</html>
